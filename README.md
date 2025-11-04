@@ -35,7 +35,7 @@ Each topic includes explanations and sample programs demonstrating how the conce
 - Replacing loops with cleaner one-liners.
 - Performance comparison with regular loops.
 
-### 5. **Data Structures""
+### 5. **Data Structures**
 
 
 ---
